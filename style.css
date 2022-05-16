@@ -1,0 +1,13 @@
+.taille{
+    width: 12rem;
+    height: 12rem;
+    font-size: 5rem;
+}
+
+.taille2{
+    display: flex;
+    margin: 20rem;
+    font-size: 3rem;
+    justify-content: center;
+    
+}
